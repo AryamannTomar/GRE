@@ -1,7 +1,7 @@
 # import os
 l=[
-    # 'Intro & Vocab Buidling',
-    # 'Vocab Building Part II',
+    'Intro & Vocab Buidling',
+    'Vocab Building Part II',
     'Text Completion Part I',
     'Text Completion Part II',
     'Short Passages',
@@ -17,11 +17,11 @@ l=[
     'Doubt Solving & Refresher Part II',
 ]
 
-for i in range(len(l)):
-    if(len(str(i))<2):
-        l[i]=f'0{i}_{l[i]}'
-    else:
-        l[i]=f'{i}_{l[i]}'
+# for i in range(len(l)):
+#     if(len(str(i))<2):
+#         l[i]=f'0{i}_{l[i]}'
+#     else:
+#         l[i]=f'{i}_{l[i]}'
 
 # # x=input()
 # # while(int(x)!=-1):
@@ -35,5 +35,6 @@ for i in range(len(l)):
 #         with open(f'{i}.txt', 'w') as f:
 #             pass
 
-with open(f'{l[0]}.txt', 'w') as f:
+c=2
+with open(f'0{c}_{l[0]}.txt', 'w') as f:
     pass

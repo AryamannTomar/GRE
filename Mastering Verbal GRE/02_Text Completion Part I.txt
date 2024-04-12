@@ -1,0 +1,15 @@
+Strategies For Text Completion =>
+    - Break the Text into parts 
+        Understand each piece and then move on to the next. Don't take a gist of it here!
+    - Come Up with your own Words
+        Figure out a Shadow answer first
+    - Any blank in any Order
+        It is not a good practise to force oneself to do blanks in any order of occurence
+    - Never fill a blank in a Silo
+        never try to answer a blank in isolation - always keep the whole context in mind
+
+Sophocles, who wrote the play Oedipus Rex, was one of the most _ playwrights of ancient Greece, completing 123 plays in his lifetime double that than of any his contemporaries. (Typical Example of Writing the play in Silos)
+[ famous bombastic critical prolific(quality of producing a lot of material) eclectic(variety of skills; lot of things in it; everything in 1 play) ]
+
+Her performance review noted that Jill suffers from a lack of _, and often makes insulting remarks despite her best efforts to be polite; worse, the review went on to point out that it happens regularly, even though she has no intention of _ anyone.
+
