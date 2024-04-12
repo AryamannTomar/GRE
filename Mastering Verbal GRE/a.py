@@ -1,7 +1,7 @@
-import os
+# import os
 l=[
-    'Intro & Vocab Buidling',
-    'Vocab Building Part II',
+    # 'Intro & Vocab Buidling',
+    # 'Vocab Building Part II',
     'Text Completion Part I',
     'Text Completion Part II',
     'Short Passages',
@@ -23,14 +23,17 @@ for i in range(len(l)):
     else:
         l[i]=f'{i}_{l[i]}'
 
-# x=input()
-# while(int(x)!=-1):
-#     l.append(x)
-#     x=input("Please Name It: ")
+# # x=input()
+# # while(int(x)!=-1):
+# #     l.append(x)
+# #     x=input("Please Name It: ")
 
-for i in l:
-    if os.path.exists(f'{i}.txt'):
-        pass
-    else:
-        with open(f'{i}.txt', 'w') as f:
-            pass
+# for i in l:
+#     if os.path.exists(f'{i}.txt'):
+#         pass
+#     else:
+#         with open(f'{i}.txt', 'w') as f:
+#             pass
+
+with open(f'{l[0]}.txt', 'w') as f:
+    pass

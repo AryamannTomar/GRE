@@ -1,7 +1,7 @@
 Guess the Meaning Through Context =>
 Guessing the context refers to the ability to infer the meaning of an expression using contectual clues
 
-Types of Context Clues
+Types of Context Clues:
 Words/ Phrases in the sentence or paragraph that help the reader to figure out the meaning of the unknown word. There are 4 types of clues you could use to support your reading comprehension
 - Synonymns & Definitions (, ;)
 - Antonyms & Contrast (In Contrast, Even Though, In stark Contrast)
@@ -37,4 +37,7 @@ Those with a reputation for _ behaviour seldom inspire respect: unwavering adher
 [ capricious bombastic(very loud) dogmatic(blindly believing sth/ being blind to sth) fickle(fickle-minded; at one point you want to do this and at other you want to do that) honorable stalwart(someone who is very loyal) ]
 
 The courtiers of the time had to be _ in order to survive in an atmosphere where the least sign of rebellion could lean to banishment or worse.
-[ taciturn fawning docile self-serving upright servile ]
+[ taciturn fawning(try to please someone/ get in the good books) docile(weak; totally submissive; not having a mind of your own) self-serving upright servile(servant-like attitude) ]
+
+Forgiveness was fine in theory, but she had trouble in accepting a religion that would allow _ evil-doers access to heaven.
+[ repentant contrite blatant venial pardoned recalcitrant ]
