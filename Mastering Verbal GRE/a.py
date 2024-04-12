@@ -29,5 +29,8 @@ for i in range(len(l)):
 #     x=input("Please Name It: ")
 
 for i in l:
-    with open(f'{i}.txt', 'w') as f:
+    if os.path.exists(f'{i}.txt'):
         pass
+    else:
+        with open(f'{i}.txt', 'w') as f:
+            pass
