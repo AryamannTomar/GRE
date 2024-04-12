@@ -35,6 +35,6 @@ l=[
 #         with open(f'{i}.txt', 'w') as f:
 #             pass
 
-c=2
-with open(f'0{c}_{l[0]}.txt', 'w') as f:
+c=3
+with open(f'0{c}_{l[c]}.txt', 'w') as f:
     pass
