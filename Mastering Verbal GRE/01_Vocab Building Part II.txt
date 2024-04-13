@@ -4,6 +4,7 @@ Guessing the context refers to the ability to infer the meaning of an expression
 Types of Context Clues:
 Words/ Phrases in the sentence or paragraph that help the reader to figure out the meaning of the unknown word. There are 4 types of clues you could use to support your reading comprehension
 - Synonymns & Definitions (, ;)
+- Examples and Definitions
 - Antonyms & Contrast (In Contrast, Even Though, In stark Contrast)
 - General Knowledge
 
@@ -49,23 +50,23 @@ As a result of his regimented upbringing, that left him unable to see the nuance
 It is Paradoxical that String Theory inspires such widespread respect when it is so _ that few could ever hope to master its claims
 [ intractable confusing elevated arcane obscure rigorous ]
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-[ intractable(difficult to deal with) confusing elevated arcane(sth very mysterious) obscure(sth with not a very clear/ definite understanding) rigorous ]
+[ intractable(extremely difficult to control or deal with) confusing(having 2 different viewpoints of sth) elevated arcane(sth very mysterious) obscure(sth with not a very clear/ definite understanding) rigorous(done very carefully and with great attention to detail) ]
     Paradoxical: sth which contradicts its own meaning
 
 Those with a reputation for _ behaviour seldom inspire respect: unwavering adherence to a viewpoint is more admired than flexibility.
 [ capricious bombastic dogmatic fickle honorable stalwart ]
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-[ capricious bombastic(very loud) dogmatic(blindly believing sth/ being blind to sth) fickle(fickle-minded; at one point you want to do this and at other you want to do that) honorable stalwart(someone who is very loyal) ]
+[ capricious(changing behaviour suddenly in a way that is difficult to predict) bombastic(very loud) dogmatic(blindly believing sth/ being blind to sth) fickle(fickle-minded; at one point you want to do this and at other you want to do that) honorable stalwart(someone who is very loyal) ]
 
 The courtiers of the time had to be _ in order to survive in an atmosphere where the least sign of rebellion could lean to banishment or worse.
-[ taciturn fawning  docile self-serving upright servile ]
+[ taciturn fawning docile self-serving upright servile ]
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-[ taciturn fawning(try to please someone/ get in the good books) docile(weak; totally submissive; not having a mind of your own) self-serving upright servile(servant-like attitude) ]
+[ taciturn(tendfing not to speak very much, in a way that seems unfriendly) fawning(try to please someone/ get in the good books) docile(weak; totally submissive; not having a mind of your own) self-serving upright servile(servant-like attitude) ]
 
 Forgiveness was fine in theory, but she had trouble in accepting a religion that would allow _ evil-doers access to heaven.
 [ repentant contrite blatant venial pardoned recalcitrant]
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-[ repentant contrite(remorseful) blatant(sb doing wrong again and again) venial(so corrupt) pardoned recalcitrant(person who is very difficult / having an obstinately unncooperative attitude towards authority or discipline) ]
+[ repentant contrite(remorseful) blatant(sb doing wrong again and again) venial(someone corrupt) pardoned recalcitrant(person who is very difficult / having an obstinately unncooperative attitude towards authority or discipline) ]
 
 ===================================================================================================================================================
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -76,3 +77,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [repository cache]
 [abiding pernennial]
 [obtuse imperceptive]
+[arcane obscure]
+[capricious fickle]
+[fawning servile]
+[repentant contrite]
