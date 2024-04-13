@@ -8,30 +8,33 @@ Words/ Phrases in the sentence or paragraph that help the reader to figure out t
 - General Knowledge
 
 ===================================================================================================================================================
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX10XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 ===================================================================================================================================================
 
 The Prize Competetion was _ as a showcase for new technology, but instead the competetion was marred by disqualifications and disputes.
 [ disappointing conceived touted heralded promising required ]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+[ disappointing conceived(devised) touted(misleading showing sth) heralded(to be a sign that sth is going to happen) promising required ]
+    - to harm or damage sth good
 
 The new institute provides intensive postgraduate teaching to a wide range of students, in the hope that these students will use their knowledge to boost the country's _ economy
 [ languishing emerging booming domestic bankrupt flagging ]
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-[ languishing(in a bad state) emerging booming domestic bankrupt flagging(declining) ]
-    insolvent meaning nothing can be done now.....
+[ languishing(in a bad state) emerging(sth that has just begun) booming(at the peak) domestic bankrupt flagging(declining) ]
+    insolvent means nothing can be done now.....
 
 Like other metaphors, the "book of Nature" has 2 facets: it is _ but if taken literally, it may mislead.
-[ heuristic ]
+[ heuristic perceptive poetic insightful prosaic iconoclastic ]
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-[ heuristic(serving as aid to learning, problems-solving by trial-error metm the culture) ]
-    What is the meaning literally / figuratively?
+[ heuristic(a mental shortcut commonly used to simplify problems and avoid cognitive overload) perceptive(open to perception) poetic insightful(sth written very profoundly; sth very deep) prosaic(being dull, ordinary, uninteresting) iconoclastic(a person who does not obey the normal rules/ beliefs of culture) ]
+    What is the meaning literally & figuratively Of - In order to ace GRE, you really need to pull your socks up.
 
 The increasing interactivity emerging in the latest computer systems means that the traditional view of the computer as a _ of information now unduly limiting.
 [ gleaner transformer processor producer repository cache]
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-[ gleaner(a collection) transformer processor producer repository cache]
+[ gleaner(someone who gathers sth in small pieces) transformer processor producer repository cache]
 
-Turing's Life exerts a powerful and _ effect on writers; the combination of the highly intelletual and the personally dramatic is hard to resist.
+Turing's life exerts a powerful and _ effect on writers; the combination of the highly intelletual and the personally dramatic is hard to resist.
 [ abiding pervasive perennial irresistible unmitigated multifaceted ]
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 [ abiding(long-lasting) pervasive(spreading widely) perennial(never-ending; lasts all the time) irresistible unmitigated(absolute; unqualified; cannot be stopped) multifaceted ]
@@ -40,8 +43,8 @@ Turing's Life exerts a powerful and _ effect on writers; the combination of the 
 As a result of his regimented upbringing, that left him unable to see the nuances of complex situations, he was often accused of being _
 [ indecisive tyrannical obtuse boorish xenophobic imperceptive ]
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-[ indecisive tyrannical(cruel) obtuse boorish(not well-mannered; rude) xenophobic(phobia of people from different parts of the world) imperceptive ]
-    Regimented: Strict
+[ indecisive tyrannical(cruel) obtuse(slow or not wanting to understand sth) boorish(not well-mannered; rude) xenophobic(phobia of people from different parts of the world) imperceptive(not having/ showing deep understanding of sth) ]
+    Regimented: A Very Strict Way
     
 It is Paradoxical that String Theory inspires such widespread respect when it is so _ that few could ever hope to master its claims
 [ intractable confusing elevated arcane obscure rigorous ]
@@ -63,3 +66,13 @@ Forgiveness was fine in theory, but she had trouble in accepting a religion that
 [ repentant contrite blatant venial pardoned recalcitrant]
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 [ repentant contrite(remorseful) blatant(sb doing wrong again and again) venial(so corrupt) pardoned recalcitrant(person who is very difficult / having an obstinately unncooperative attitude towards authority or discipline) ]
+
+===================================================================================================================================================
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+===================================================================================================================================================
+[touted heralded]
+[languishing flagging]
+[perceptive insightful]
+[repository cache]
+[abiding pernennial]
+[obtuse imperceptive]
