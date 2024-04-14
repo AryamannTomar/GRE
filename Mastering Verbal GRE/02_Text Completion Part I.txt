@@ -9,7 +9,7 @@ Strategies For Text Completion =>
         never try to answer a blank in isolation - always keep the whole context in mind
 
 ===================================================================================================================================================
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX11XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX12XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 ===================================================================================================================================================
 
 Sophocles, who wrote the play Oedipus Rex, was one of the most _ playwrights of ancient Greece, completing 123 plays in his lifetime double that than of any his contemporaries. 
@@ -22,25 +22,24 @@ Her performance review noted that Jill suffers from a lack of _, and often makes
 [ frankness tact deference ]
 [ exacerbating rewarding denigrating ]
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+[ frankness tact(ability to deal with people without offending or upsetting them) deference(polite submission and respect) ]
+[ exacerbating rewarding denigrating(criticize/ discouraging sb) ]
 
-Our animal-rights associates suspect us of insufficient _ for animal welfare, since we acknowledge that not all research involving animals is _ and many of us do not object when transgenic mice are painlessly cuthanized after being well cared for during their short lives.
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-With his sub-four minute mile Bannister broke a psychological barrier, and inspired thousands of others to attempt to overcome seemingly _ hurdles. 
+With his sub-four minute mile Bannister broke a psychological barrier, and inspired thousands of others to attempt to overcome seemingly _ hurdles.
 [ insurmountable inane trivial traumatic ineffable ]
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-[ insurmountable inane trivial traumatic ineffable ]
+[ insurmountable(too great to overcome) inane(lacking sense or meaning; silly) trivial(insignificant) traumatic ineffable(too great or extreme to be described in words) ]
 
 Ricks has written extensively not only on the poetry of such _ figures in English poetry as Milton and Housman, but also on the less obviously _ lyrics of Bob Dylan.
 [ obscurantist arcane established ]
 [ canonical popular judicious ]
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-[ obscurantist arcane established ]
+[ obscurantist(someone who tries to hide away) arcane(known to very few people and difficult to understand) established ]
 [ canonical popular judicious ]
 
 The publishers, unwilling to _ the entire risk, insisted that the author pay half the cost of the initial print run of his _ new book.
 [ hedge shoulder mitigate ]
-[ unexceptionable controversial jaundiced ]
+[ unexceptionable controversial jaundiced(exhibiting/ influenced by envy/ distaste/ hostility) ]
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 [ hedge shoulder mitigate ]
 [ unexceptionable controversial jaundiced ]
@@ -49,25 +48,43 @@ Science advances _ as _ change abruptly and we are forced to stop and reorient o
 [ exponentially inexorably jerkily ]
 [ paradigms axioms continuities ]
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-[ exponentially inexorably jerkily ]
-[ paradigms axioms continuities ]
+[ exponentially inexorably(impossible to stop or prevent) jerkily ]
+[ paradigms(change in pattern-shift) axioms continuities ]
 
 The game of chess is an example of a _ information system: the pieces sit inertly on the board until the players move them according to known rules.
 [ interactive passive cybernetic disruptive logistic ]
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-[ interactive passive cybernetic disruptive logistic ]
+[ interactive passive cybernetic(science of comm and CT concerned especially with the study of automatic control systems) disruptive logistic ]
 
 All good comic writers use humor to _, not to side-step the problems of human behaviour.
 [ amuse avert juxtapose confront solve ]
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-[ amuse avert juxtapose confront solve ]
+[ amuse avert juxtapose(to place 2 people/ things very close together, especially in order to show how they are different) confront solve ]
 
 When staying in a hotel, Bernard would arrange for his valet to bring him his newspaper in the dining room so that everyone would realize that he had a manservant; this _ embarrassed his nephew who, though equally rich, preferred a more _ life-style.
 [ ostentation arrogance dissimulation ]
 [ opulent libertine understated ]
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-[ ostentation arrogance dissimulation ]
-[ opulent libertine understated ]
+[ ostentation(pretentious/ showy display of wealth and luxury; designed to impress) arrogance dissimulation(concealment of one's thought, feeling or character) ]
+[ opulent(made/ decorated with expensive materials; extremely rich) libertine(freely indulging in sensual pleasures without regard to moral principles) understated ]
+    dissuade - not to take a particular course of action
+
+As Gerard _ the _ that greeted his work, he became increasingly smug.
+[ repudiated humbly-accepted basked-in ]
+[ accolades opprobrium lack-of-interest ]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+[ repudiated(reject) humbly-accepted basked-in(enjoy a pleasant feeling or situation) ]
+[ accolades opprobrium(public insult) lack-of-interest ]
+    - smug: to be too pleased and too happy with yourself; overconfidence
+
+The _ and virtuosity required of a jazz player make jazz seem to lack _; this apparently amorphous flow can make it hard for people with traditional expectations of music stability to acquire a taste for this genre.
+[ controlled-playing inventiveness emotional-distance ]
+[ inherent-structure underlying-rhythm controlled-emotions ]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+[ controlled-playing inventiveness emotional-distance ]
+[ inherent-structure underlying-rhythm controlled-emotions ]
+    - amorphous: sth that lacks a particular form or a structure
+    - virtuosity: (+ve word) great skill in artistic work
 
 Taking antibiotics for a viral infection may, it is true, be _; however, in certain cases a course of these drugs can actually ward off opportunistic bacterial infections.
 [ justified enough recommend ineffective curative ]
@@ -78,3 +95,14 @@ Taking antibiotics for a viral infection may, it is true, be _; however, in cert
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 ===================================================================================================================================================
 [prolific]
+[tact denigrating]
+[insurmountable]
+[established canonical]
+[shoulder controversial]
+[jerkily paradigms]
+[passive]
+[confront]
+[ostentation understated]
+[basked-in accolades]
+[inventiveness inherent-structure]
+[ineffective]

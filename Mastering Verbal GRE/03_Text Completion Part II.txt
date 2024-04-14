@@ -5,14 +5,15 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 The modern world is permissive one in which things can be said explicitly, but the old tradition of _ dies hard.
 [garrulousness exaggeration excoriation bombast euphemism ]
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-[garrulousness exaggeration excoriation bombast euphemism ]
+[garrulousness exaggeration excoriation bombast euphemism(saying sth indirectly) ]
+    - explicitly: saying sth very clearly; not being diplomatic about sth
 
 After a long, damaging trial during which most of his friends and family had abandoned him, the defendant was relieved and felt _ upon learning that the court had _ him.
 [ vindicated prostrate estranged ]
 [ extolled exonerated vilified ]
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-[ vindicated prostrate estranged ]
-[ extolled exonerated vilified ]
+[ vindicated(clear of blame or suspicion) prostrate estranged(no longer in contact with the person you were close with) ]
+[ extolled exonerated(to say officially that someone was not responsible for sth bad that happened) vilified(to say or write unpleasant things about sb/sth to make other people have a bad opinion of them) ]
 
 Our animal-rights associates suspect us of insufficient _ for animal welfare, since we acknowledge that not all research involving animals is _, and many of us do not object when transgenic mice are painlessly euthanized after being well cared for during their short lives.
 [ solace ardor consecration ]
@@ -103,3 +104,5 @@ In most South Asian cultures, an article used in prayer or ritual is made with e
 ===================================================================================================================================================
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 ===================================================================================================================================================
+[euphemism]
+[vindicated exonerated]
