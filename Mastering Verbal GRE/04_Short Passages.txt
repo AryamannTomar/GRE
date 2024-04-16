@@ -1,10 +1,120 @@
-Passage 1
-The humanities are less likely than other science streams to get their due for their achievements. Debatably, this is so because the theories and conceptual constructs of humanities are especially accessible: human intelligence apprehends truths about human affairs with particular facility. And the discoveries of the humanities, once isolated and labeled, are grifly absorbed into conventional wisdom, whercupon they lose their distinctiveness as scientific advances.
-This disregard of the humanities compares oddly with what many see as their overutilization. Game theory is pressed into service in studies of shifting international alliances. Evaluation research is called upon to demonstrate successes or failures of social programs. Prototypes from economics and demography become the determining tools for examining the financial base of social security. Yet this rush into practical applications is itself quite understandable: public policy must continually be made, and decision makers rightly feel that even tentative findings and untested theories are better guides to passing resolutions than no findings and no theories at all.
+===================================================================================================================================================
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+===================================================================================================================================================
 
-1. The author is primarily concemed with
-    A advocating a more modest view, and less widespread utilization, of the humanities 
-    B analyzing the mechanisms for translating discoveries into applications in the humanities 
-    C dissolving the air of paradox inherent in human beings studying themselves 
-    D explaining a peculiar dilemma that the humanities are in 
-    E maintaining a strict separation between pure and applied humanities
+Passage 1
+The humanities are less likely than other science streums to get their due for their achievements.Debatably, this is so because the theories and conceptual constructs of humanities are especially accessible: human intelligence apprehends truths about human affairs with particular facility. And the discoveries of the humanities, once isolated and labeled, are sifily absorbed into conventional wisdom, whereupon they lose their distinctiveness as scientific advances.
+This disregard of the humanities compares oddly with what many see as their overutilization, Game theory is pressed into service in studies of shifting international alliances. Evaluation research is called upon to demonstrate successes or failures of social programs. Prototypes from cconomics and demography become the determining tools for examining the financial base of social security. Yet this rush into practical applications is itself quite understandable: public policy must continually be made, and decision makers rightly feel that even tentative findings and untested theories are better guides to passing resolutions than no findings and no theories at all.
+
+1. The author is primarily concerned with 
+    A. advocating a more modest view, and less widespread utilization, of the humanities 
+    B. analyzing the mechanisms for translating discoveries into applications in the humanities
+    C. dissolving the air of paradox inherent in human beings studying themselves 
+    D. explaining a peculiar dilemma that the humanities are in 
+    E. maintaining a strict separation between pure and applied humanities
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+2. Which of the following is a humanities' discipline that the author mentions as being possibly over utilized?
+    A. Conventional theories of social change
+    B. Game theory
+    C. Decision-making theory
+    D. Economic theories of international alliances 
+    E. Systems analyses 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+3. It can be inferred from the passage that, when speaking of the "overutilization" of the humanities, the author is referring to the
+    A. premature practical application of the theories of humanities
+    B. habitual reliance on the theories of humanities even where common sense would serve equally well
+    C. practice of bringing a greater variety of humanities' disciplines to bear on a problem than the
+    nature of the problem warrants   
+    D. use of the humanities' constructs by people who do not fully understand them
+    E. tendency on the part of scientists involved in the humanities to rocast everyday truths in social science jargon
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+4. The author confronts the claim that the humanities are being overutilized with 
+    A. proof that overextensions of humanities results are self-correcting
+    B. evidence that some public policy is made without any recourse to humanities findings or theories
+    C. a long list of applications of the humanities that are perfectly appropriate and extremely
+    fruitful
+    D. the argument that overutilization is by and large the exception rather than the rule 
+    E. the observation that this practice represents the lesser of two evils under existing circumstances
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+===================================================================================================================================================
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX12XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+===================================================================================================================================================
+
+Passage 2
+At present, the dominant issue in the discipline of biomaterials, the science of substituting unhealthy tissue with human-made implants is control over the interface, or surface, between implanted biomaterials and living tissues. The natural characterstics of most tissues can be matched by meticulous selection of raw materials: metals, ceramics, or several varieties of polymer materials. Even the requisite that biomaterials processed from these materials be nontoxic to host tissue can be met by methods derived from observing the responses of tissue cultures to biomaterials or from short-term implants. But achieving necessary matches in natural characteristies across interfaces between living and non-living matter requires knowledge of which molecules control the bonding of cells to each other - a field that we have not yet studied thoroughly. Although recent findings have allowed us to stabilize the tissue-biomaterial interface by controlling either the chemical responses or the microstructure of the biomaterial, our elementary understanding of how implant devices adhere to tissues remains woefully unfinished.
+
+1. According to the passage, the major issue currently facing scientists in the discipline of biomaterials is 
+    A. assessing and regulating the bonding between host tissue and implants 
+    B. controlling the transfer of potentially toxic materials across the interface of tissue and implant
+    C. discovering new materials from which to construct implant devices 
+    D. deciding in what situations implants are needed
+    E. determining the importance of short-term implants to long-term stability of tissue-implant interfaces
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+2. The passage suggests which of the following about the recent findings mentioned in the last sentence? It has 
+    A. solved one set of problems but has created annother
+    B. concentrated on secondary concerns but has ignored primary concerns
+    C. improved practical applications of biomaterial technology without providing a complete theoretical explanation of that improvement
+    D. thoroughly investigated properties if biomaterials but has paid little attention to relevant characteristics of human tissue.
+    E. provided considerable information on short-term implant technology but little on long-term implant technology
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+3. In the context in which it appears - "studied" most nearly means
+    A. pondered upon
+    B. explored
+    C. formulated
+    D. shelved
+    E. implemented
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+4. Select the sentence in the passage that mentions how the toxicity of the biomaterials on the tissues can be understood.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+5. The author's primary purpose is to
+    A. answer a theoretical question in the discipline of biomaterials 
+    B. discuss the present state of technology in the field of biomaterials 
+    C. resolve a dispute in the findings in the field of biomaterial
+    D. predict an ethical crisis for biomaterials researchers
+    E suggest some practical benefits of biomaterial implants
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+===================================================================================================================================================
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX12XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+===================================================================================================================================================
+
+Passage 3
+The Food and Drug Administration has recently proposed strict checks on the use of medicines especially antibiotics to promote the health and growth of animals used for meat. Antibiotics added to their feeds destroy several microbes but also support the appearance of bacterial strains that are resistant to anti-infective medicines. For instance, pencillin and the tetracyclines are not as effective therapeutically as they once were. The drug resistance is primarily conferred by little circlets of genes, called plasmids that can be exchanged between various strains and even various other species of bacteria. Plasmids are also one of the two kinds of vehicles (the other being viruscs) that hiologists depend on when conducting gene transplant experiments. Even the existing guidelines prohibit the laboratory use of plasmids bearing genes for resistance to antibiotics. Yet, while national legislative debate rages over whether or not to tighten these checks on researchers in their labs, very little legislative attention has been focused on poorly and inadequately advised farming methods that lead to known deleterious effects.
+
+1. In the passage, the author is primarily concerned with
+    A. discovering methods of eliminating harmful microbes without subsequently generating drug-resistant bacteria
+    B. explaining reasons for legislative inaction on the regulation of gene transplant experiments 
+    C. describing a problematic agricultural practice and its serious genetic consequences
+    D. verifying the therapeutic ineffectiveness of anti-infective drugs
+    E. evaluating recently proposed checks intended to promote the growth of meat animals
+
+2. According to the passage, the exchange of plasmids between different bacteria can result in which of the following?
+    A. Microbes resistant to drugs
+    B. Therapeutically useful circlets of genes
+    C. Anti-infective drugs like penicillin
+    D. Viruses for use by molecular biologists
+    E. Mediums for performing gene transplant experiments
+
+3. It can be inferred from the passage that the author believes that those in favor of stiffening the checks on gene transplant research should logically also
+    A. resist the use of penicillin and tetracyclines to kill microorganisms 
+    B. question the addition of anti-infective drugs to livestock feeds 
+    C. agree to the development of meatier livestock through the use of antibiotics
+
+4. The author's attitude toward the development of bacterial strains that render antibiotic drugs ineffective can best be described as
+    A. indifferent 
+    B. perplexed 
+    C. pretentious 
+    D. insincere 
+    E. apprehensive
+
+===================================================================================================================================================
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+===================================================================================================================================================

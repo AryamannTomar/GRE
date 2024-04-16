@@ -1,0 +1,111 @@
+Whenever you read sth, how do you make your inferences / Assumptions about them? 
+Sentence 1: "Migraine more than any headache seems to run in families"
+Sentence 2: "The choreographer more than any participant, seems to be excited about the dance"
+
+===================================================================================================================================================
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+===================================================================================================================================================
+
+1. Recently NGOs have become far more effective at persuading industrial corporations to change. For example, as a result of the efforts of animal groups, many biotechnology companies have reduced their use of laboratory animals, substituting in their place alternative methods of product testing.
+Which of the following, if true, casts the most serious doubt on the connection between pressure group activity and corporate change claimed above?
+    A. Many companies in the rescarch industry have increased their public relations spending in order to counter the activity of animal rights groups.
+    B. Before the new methods of testing products are used, they have to be calibrated by comparison tests involving experiments on laboratory animals.
+    C. When companies stop using laboratory animals, they generally go to some expense to publicize this change of policy.
+    D. The biotechnology companies who still use laboratory animals are mostly the smaller firms that have been less subject to pressure group activity.
+    E. The methods of product tesing that do not involve laboratory animals are faster and cheaper than the methods that do.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+2. The President will go ahead with his new tax plan only if Congress approves and public opinion about it is supportive. Congress will approve the measure because of the substantial majority the President's party enjoys. Moreover, the opposition also seems to be in agreement with the fact that it is necessary to cut the deficit. However, gathering public support will be a tough task for the President. A major civil protest is likely because the new tax plan will mean a greater financial burden on many taxpayers.
+Which of the following conclusions is best supported by the information above?
+    A. Since the President will have to go against public opinion, the new tax plan will be dropped.
+    B. Implementation of the President's policies is more contingent on public approval than on Congressional approval.
+    C. It is unlikely that the President will go ahead with the new tax plan, and it might be abandoned mid way.
+    D. For the tax plan to be impiemented successfully, public support will have to be unanimous.
+    E. The President will modify the tax plan in order to roduce the burden on the taxpayer.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+3. Anthropologist: Violence is an extreme form of aggression and is distinct from the self-expression sufficient for survival under normal conditions. Human beings in certain situations react to unpleasant stimuli with violence - but only because they are conditioned by their culture to react in this manner.
+Each of the following can be logically inferred from the anthropologist's statements, EXCEPT:
+    A. Not all aggression is violent.
+    B. The self-expresson required for survival is generally non-aggressive.
+    C. Some behaviors are influenced by the cultures in which human beings live.
+    D. Under normal circumstances, human beings can survive by responding non-violently.
+    E. Violent behavior is a product of one's cultural environment.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+4. Most land-dwelling vertebrates have rotating limbs terminating in digits, a characteristic useful for land movement. Biologists, who assume that this characteristic evolved only after animals abandoned aquatic environments, must consider the Acanthostega, a newly discovered ancestor of all land vertebrates. it possessed rotating limbs terminating in digits, but its skeleton was too feeble for land movement. It also breathed using only internal gills, indicating that it and its predecessors were exclusively aquatic.
+The statements above support which of the following conclusions?
+    A. The Acanthostega demonstrates that in the ealiest ancestors of land-dwelling vertebrates, anatomical characteristics suitable for surviving on land evolved prior to the abandonment of aquatic environments.
+    B. None of the anatomical characteristics common to most aquatic animals represent an advantage for survival on land.
+    C. Acanthostega originated as a land-dwelling species but evolved gills only after moving to an underwater environment.
+    D. All anatomical characteristics not useful for land movement but common to most land animals represent an advantage for underwater survival.
+    E. Contrary to popular perception, land dwelling vertebrates breathe through internal gills.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+5. The world's largest and oldest company to advertize heavily finally broke a significant convention.
+Starting July 1, the Cincinnati-based D&G will at last jettison its standard 15% commission for compensating advertising agencies. The 15% commission system is as old as advertising itself. Instead of linking agency commission to media spends, D&G is latching on to the most obvious variable: product sales.
+What of the following conclusions can most properly be drawn from the passage above?
+    A. D&G is directly linking its advertising commission to product sales.
+    B. D&G is revamping its advertising budget.
+    C. Starting July 1, D&G is discontinuing the 15% commission it pays to advertising agencies.
+    D. D&G lost its position as the largest corporate advertiser.
+    E. Product sales are on the decline at D&G.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+6. If city roads were restricted to cars and only those truck with capacity of less than 5 tons, most of the truck traffic would be forced to run outside the city. Such a reduction in the amount of truck traffic would reduce the risk of collisions on city roads.
+The conclusion drawn in the first sentence depends on which of the following assumptions?
+    A. The roads outside the city would be as convenient as those in the city for most truck drivers.
+    B. Most roads in the city are not ready to handle truck traffic.
+    C. Most trucks that are currently running on the city roads have a capacity of more than 5 tons.
+    D. Cars are at greater risk of becoming involved in collisions than are trucks.
+    E. A reduction in the risk of collision would eventually lead to increases in car traffic.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+7. A species of deer is found to develop some hormonal imbalances when fed on a standard zoo diet of nuts and fruits, which leaves them undernourished. This in turn has an implication on their reproduction and consequently, their numbers are dwindling. The healthiest way to feed them is to provide them primarily with vegetables and leaves and minimal amounts of nuts and fruits.
+The above argument depends logically upon which of the following assumptions?
+    A. Vegetables and leaves are being fed to several animals in other zoos.
+    B. Reproduction in these species of deer depends upon food found in their natural habitat.
+    C. These species of deer will be adequately nourished when fed with vegetables and leaves.
+    D. Nuts and fruits do not provide wholesome nutrition to majority of animals in the zoo.
+    E. The zoo authorities are careless in their approach as far as diet of animals is concerned.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+8. Since an elephant that has no tusks is worthless to poachers, the Wildlife Protection Committee plans to protect selected elephants from being killed by poachers by cutting off the elephants' tusks.
+The Wildlife Protection Committee's plan assumes that
+    A. poachers do not kill elephants that are worthless to them
+    B. tuskless elephants pose less of a threat to humans, including poachers, than do elephants that have tusks
+    C. elephants are the only animals poachers kill for their tusks 
+    D. tuskless elephants can successfully defend their young against non-human predators E. imposing more stringent penalties on poachers will not decrease the number of elephants killed by poachers
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+9. According to a survey, despite a dict dominated by cheese, alcohol, chocolate and meat, all of which are not healthy and are proven to lead to obesity and heart discase, only 10% of French adults are obese, while the obesity rate for British and American adults who also consume fats and alcohol is 22% and 35% respectively.
+All of the following, if true, most help to resolve the contradiction above EXCEPT:
+    A. The average British and American portions of food are larger than those of the French by 30% and 40% respectively.
+    B. The French meals made at home using fresh ingredients are healthier than British or
+    American meals, which have a huge proportion of processed ingredients.
+    C. The average time spent by the French while consuming their meals is much higher than that spent by their British or American counterpart, which aids in breaking down the fats consumed.
+    D. Unlike the British or the Americans, the French place a great emphasis on the sophistication of their cuisine and the ritualistic experience of having a meal.
+    E. The French as a whole consume far greater quantities of wine, which is known to reduce the risk of coronary disease, than the British or the Americans.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+10. Piracy of software products is a major concern for software companies around the world. Everytime a copy of pirated software is sold, the company that created the software loses revenue. Thus, a rise in the piracy of software indicates a rise in the losses for software companies. However, a dip in the sale of pirated software in the absence of any special efforts to crackdown on piracy also indicates that the software industry is going through a lean phase.
+Which of the following, if true, most helps to reconcile the paradoxical situation given above?
+    A. Software pirates use a large number of CD writers that are a major component of the hardware industry and thus their sales go down.
+    B. Software pirates only target very popular software that earns the industry almost 90% of its revenues. Dip in the sale of pirated software indicates an overall dip in the demand for this software.
+    C. Large software companies earn almost 10 titles as much as a small software company and piracy could affect the sales of these big firms.
+    D. Software pirates also buy legitimate software before copying it and so drop in piracy means drop in revenue earned from the sale of legitimate software.
+    E. The revenue through licensing to corporate houses forms a bulk of the revenue for the industry, and corporate houses never buy pirated software.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+11. Some communities in Denver are populated almost only by old people and contain few, if any, families with small children. Yet these communities are home to thriving businesses specializing in the rental of furniture for infants and small children.
+Which of the following, if true, best reconciles the seeming discrepancy described above?
+    A. The businesses specializing in the rental of children's furniture buy their furniture from distributors outside of Denver.
+    B. The few children who doreside in these communities all know each other and often make overnight visits to one another's houses.
+    C. Many residents of these communities who move frequently prefer renting their furniture to buying it outright.
+    D. Many residents of these communities must provide for the needs of visiting grandchildren several weeks a year.
+    E. Children's furniture available for rental is of the same quality as that available for sale in the stores.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+===================================================================================================================================================
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+===================================================================================================================================================

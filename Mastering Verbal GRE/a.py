@@ -35,7 +35,7 @@ l=[
 #         with open(f'{i}.txt', 'w') as f:
 #             pass
 
-# c=3
-for c in range(4,7):
-    with open(f'0{c}_{l[c]}.txt', 'w') as f:
-        pass
+c=9
+# for c in range(5,9):
+with open(f'0{c}_{l[c]}.txt', 'w') as f:
+    pass
