@@ -3,45 +3,47 @@
 The modern world is permissive one in which things can be said explicitly, but the old tradition of _ dies hard.
 [garrulousness exaggeration excoriation bombast euphemism ]
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-[garrulousness exaggeration excoriation bombast euphemism(saying sth indirectly) ]
+[garrulousness(talking a lot, mostly about unimportant things) exaggeration excoriation(the act of abrading or wearing off the skin) bombast(high-sounding language with little meaning) euphemism(saying sth indirectly; opposite of explicit) ]
+    - eu is a word root [ sth. +ve ] : euphemism is saying sth in a way that people dont feel bad
+    - He died; saying sth. mildly; He kicked the bucket
     - explicitly: saying sth very clearly; not being diplomatic about sth
 
 After a long, damaging trial during which most of his friends and family had abandoned him, the defendant was relieved and felt _ upon learning that the court had _ him.
 [ vindicated prostrate estranged ]
 [ extolled exonerated vilified ]
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-[ vindicated(clear of blame or suspicion) prostrate estranged(no longer in contact with the person you were close with) ]
-[ extolled exonerated(to say officially that someone was not responsible for sth bad that happened) vilified(to say or write unpleasant things about sb/sth to make other people have a bad opinion of them) ]
+[ vindicated(clear of blame or suspicion) prostrate(sth. very submissive; lying flat on the ground, facing downwards) estranged(no longer in contact with the person you were close with) ]
+[ extolled(praise enthusiastically) exonerated(removing of all judges; to say officially that someone was not responsible for sth bad that happened) vilified(taking revenge; to say or write unpleasant things about sb/sth to make other people have a bad opinion of them) ]
 
 Our animal-rights associates suspect us of insufficient _ for animal welfare, since we acknowledge that not all research involving animals is _, and many of us do not object when transgenic mice are painlessly euthanized after being well cared for during their short lives.
 [ solace ardor consecration ]
-[ torture lacreation anguish ]
+[ torture laceration anguish ]
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-[ solace ardor consecration ]
-[ torture lacreation anguish ]
+[ solace(thing that makes you feel better when you are sad) ardor(great enthusiasm or passion) consecration(make sth sacred/ very pure) ]
+[ torture laceration(the action of criticizing someone severely) anguish(mental pain) ]
 
-History and literature often mirror cach other, but sometimes there are inconsistencies with the truth. The play Macbeth by Shakespeare is an example of one such _. The play is riddled with false truths simply to add drama to the story. One of the only pieces of truth in Macbeth is that Macbeth overcame Duncan. The real history of the story of Macbeth and Shakespeare's versions are very different; Shakespeare _ his characters in order to make his story less _.
+History and literature often mirror each other, but sometimes there are inconsistencies with the truth. The play Macbeth by Shakespeare is an example of one such _. The play is riddled with false truths simply to add drama to the story. One of the only pieces of truth in Macbeth is that Macbeth overcame Duncan. The real history of the story of Macbeth and Shakespeare's versions are very different; Shakespeare _ his characters in order to make his story less _.
 [ quiscence magnanimity aberration ]
 [ altered accentuated glorified ]
 [ prosaic jocular macabre ]
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-[ quiscence magnanimity aberration ]
-[ altered accentuated glorified ]
-[ prosaic jocular macabre ]
+[ quiscence(inactivity/ dormancy) magnanimity(kind/ generous and forgiving) aberration(inconsistent; fact or action of behaving that is not typical; maybe unacceptable) ]
+[ altered accentuated(make more prominent/noticeable) glorified ]
+[ prosaic(lacking imaginativeness/ originality) jocular macabre(unpleasant/frightening connected with death) ]
 
 To the _ of his supporters, the president unexpectedly _ the opposition's demands of social security payment, which is perceived as a warning sign that he is _ to the opposition's influence.
 [ accord consternation trepidation ]
 [ nullified discarded endorsed ]
 [ subscribing abhorring deterring  ]
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-[ accord consternation trepidation ]
+[ accord consternation(surprise) trepidation(fear) ]
 [ nullified discarded endorsed ]
-[ subscribing abhorring deterring  ]
+[ subscribing abhorring(regard with disgust and hatred) deterring(make sb decide not to do sth) ]
 
-He shunned the_ pleasures of life and worked hard toward creating a legacy of dedication and service which would last considerably longer.
+He shunned the _ pleasures of life and worked hard toward creating a legacy of dedication and service which would last considerably longer.
 [ ephemeral lavish extravagant exuberant facetious fugacious ]
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-[ ephemeral lavish extravagant exuberant facetious fugacious ]
+[ ephemeral(lasting for a very short time) lavish extravagant(lacking restraint in spending money/ using resources) exuberant(full of energy, excitement and cheerfulness) facetious(treating serious issues with deliberately inappropriate humour; flippant) fugacious(tending to disappear; fleeting) ]
 
 In today's world, adaptability, creativity, and innovativeness appear to be preconditions for organizations and individuals to thrive but these qualities don't fit well with the industrial business model; they aren't _ to monitoring and pricing.
 [ discernible amenable reducible infallible measurable  ]
@@ -104,3 +106,13 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 ===================================================================================================================================================
 [euphemism]
 [vindicated exonerated]
+[ardor torture]
+[aberration altered prosaic]
+[consternation endorsed subscribing]
+[ephemeral fugacious]
+
+
+
+
+
+
