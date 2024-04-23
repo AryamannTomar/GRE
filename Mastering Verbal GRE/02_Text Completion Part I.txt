@@ -1,3 +1,5 @@
+'Text Completion Part I'
+
 Strategies For Text Completion =>
     - Break the Text into parts 
         Understand each piece and then move on to the next. Don't take a gist of it here!

@@ -1,3 +1,5 @@
+'Critical Reasoning Part III'
+
 1. Though the number of bottles of mayonnaise sold has decreased in the last one year by 10% after the govemment launched a campaign to promote healthy eating, the percentage of households who have a bottle of mayonnaise in their fridge now, has risen from 75% to 90%.
 Which of the following, if true, best helps to explain this discrepancy?
     A. The average rate of consumption of a bottle of mayonnaise before the government's campaign was much faster than it is now, after the campaign.
