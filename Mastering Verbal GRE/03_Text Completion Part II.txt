@@ -48,30 +48,32 @@ He shunned the _ pleasures of life and worked hard toward creating a legacy of d
 In today's world, adaptability, creativity, and innovativeness appear to be preconditions for organizations and individuals to thrive but these qualities don't fit well with the industrial business model; they aren't _ to monitoring and pricing.
 [ discernible amenable reducible infallible measurable  ]
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-[ discernible amenable reducible infallible measurable  ]
+[ discernible(recoganise or find out) amenable(not changeable) reducible infallible(flawless) measurable  ]
 
 In his _ of the past, Boris Leondovich's characters are subtly etched against their social backgrounds, and the author imbues the _ with his intense poetic vision.
 [ extraction evocation delimiting ]
 [ temporal exotic commonplace ]
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-[ extraction evocation delimiting ]
-[ temporal exotic commonplace ]
+[ extraction evocation(recalling a feeling/ memory/ image) delimiting ]
+[ temporal(connected with the real physical/ material world and not to spiritual matters) exotic commonplace ]
+    - etched: to cut a pattern/ picture into a smooth surface (metal or glass)
+    - imbue: fill sth with deep feelings/ strong opinions or ideas
 
 The hacker community that once operated in its dark _ has broken the surface, _ social networks and exploiting them to expand in all directions legal and otherwise.
 [ environs recesses ambience ]
 [ embracing spurring spurning ]
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-[ environs recesses ambience ]
-[ embracing spurring spurning ]
+[ environs(surrounding area) recesses(hidden place) ambience ]
+[ embracing(exploring) spurring(sth that encourages you to do or that makes sth happen more quickly) spurning(to refuse sth that sb has offered to you) ]
 
-During the nineteenth century the distinction between the spoken and written Russian was far less marked than in any Westera Europcan country. Although a majority of the population was illiterate, the written Russian language had not yet been _ and transformed to express the _ interests and tastes of the ruling class. But by the end of the century a differentiation between the language of the people and the new urban middle class was beginning to be become _.
+During the nineteenth century the distinction between the spoken and written Russian was far less marked than in any Western European country. Although a majority of the population was illiterate, the written Russian language had not yet been _ and transformed to express the _ interests and tastes of the ruling class. But by the end of the century a differentiation between the language of the people and the new urban middle class was beginning to be become _.
 [ expropriated declaimed decried ]
 [ debased exclusive debauched ]
 [ ambiguous apparent crucial ]
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-[ expropriated declaimed decried ]
-[ debased exclusive debauched ]
-[ ambiguous apparent crucial ]
+[ expropriated(to take away /wipe out) declaimed(deliver words in a rhetorical or impassioned way) decried(publicly denounce) ]
+[ debased(reduce in quality/ value) exclusive debauched(indulging in excessive sex/ alochol/drugs) ]
+[ ambiguous apparent(clearer) crucial ]
 
 Cubism cannot be explained in terms of the genius of its _. And this is emphasized by the fact that most of them became less _ artists when they ceased to be Cubists. Even Braque and Picasso never _ the works of their Cubist period: and a great of their later work was inferior.
 [ opponents exponents champions ]
@@ -110,9 +112,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [aberration altered prosaic]
 [consternation endorsed subscribing]
 [ephemeral fugacious]
-
-
-
-
-
-
+[infallible]
+[extraction commonplace]
+[recesses embracing]
+[expropriated exclusive apparent]
+[champions profound surpassed]
+[inexhaustible remarkable]
+[reconstructed experiences]
+[lavishly everyday]
