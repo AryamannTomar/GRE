@@ -2,7 +2,7 @@
 
 TIP: In Critical Reasoning each and every word matters.
 
-Whenever you read sth, how do you make your inferences / Assumptions about them? 
+Whenever you read sth, how do you make your inferences /assumptions about them? 
 Sentence 1: "Migraine more than any headache seems to run in families"
 Sentence 2: "The choreographer more than any participant, seems to be excited about the dance"
     - We have an inclination/ predesposition about believing that migraine is a headache so choreographer will be a dancer for sure
@@ -113,5 +113,5 @@ Which of the following, if true, best reconciles the seeming discrepancy describ
 ===================================================================================================================================================
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 ===================================================================================================================================================
-
+[E]
 []
