@@ -1,5 +1,12 @@
 'Critical Reasoning Part II'
 
+3 Types 
+    - Strengthen the Argument 
+    - Weaken the Argument 
+        1. Why the argument is not Valid
+        2. Provide Possible Counter Argument
+    - Boldface Questions [ Most Difficult Types of Questions in GRE ]
+
 WEAKEN THE CONCLUSION
 1. According to a recent survey in Country X, men who carry their mobile phones in their trousers are more likely to suffer from sterility than those who carry it in their jacket pockets. Cell phone manufacturers should be directed to pay millions in damages for not informing the customers, through warning labels, about the potential hazards of cell phone usage.
 Which of the following, if true, most weakens the argument?
@@ -14,14 +21,14 @@ Which of the following, if true, most weakens the argument?
 2. Transporting oil by using trucks involves the unavoidable risk of oil leakage. The alternative is to build pipelines, which have an even greater risk of a leakage. Thus, to continue safely transporting oil without curtailing oil use, we must use only trucks.
 Which of the following, if true, most seriously weakens the argument?
     A. Oil leakage due to trucks can be more expensive than the leakage from pipelines.
-    B. Truck Ieakage damages the road surface while pipeline leaks only damage subterrancan soil.
+    B. Truck leakage damages the road surface while pipeline leaks only damage subterranean soil.
     C. Oil consumption has been rising rapidly in recent years.
     D. Pipeline construction would involve land acquisition from farmers.
-    E. It is possible to construct pipelines from reinforced material, which makes the risk of Icakage significantly lower than that when using trucks.
+    E. It is possible to construct pipelines from reinforced material, which makes the risk of leakage significantly lower than that when using trucks.
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
-3. The earliest Sumerian metal weapons found in Baghdad, Iraq, are about 2,500 years old. A few days back, archcologists in Baghdad found pottery, which is nearly 3,500 years old. This pottery resembles Sumerian pottery of a much later period, also found in Baghdad. The pottery designs are also very different from designs of pottery of other civilizations, which are known to have inhabited the area in other eras. So, we can conclude that there were definitely Sumerian settlements in Baghdad 3,500 ycars ago.
+3. The earliest Sumerian metal weapons found in Baghdad, Iraq, are about 2,500 years old. A few days back, archcologists in Baghdad found pottery, which is nearly 3,500 years old. This pottery resembles Sumerian pottery of a much later period, also found in Baghdad. The pottery designs are also very different from designs of pottery of other civilizations, which are known to have inhabited the area in other eras. So, we can conclude that there were definitely Sumerian settlements in Baghdad 3,500 years ago.
 Which of the following, if true, most seriously weakens the argument?
     A. Sumerians were not known to trade in pottery.
     B. Pottery is a mark of highly evolved civilizations and the Sumerian civilization would have been only 100 years old, 3,500 years ago.
@@ -65,8 +72,13 @@ Which one of the following, if true, most strongly supports the scientists' hypo
     E. The sage grouse is commonly afflicted with a strain of malaria that tends to change as the organism that causes it undergoes mutation.
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+===================================================================================================================================================
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX12XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+===================================================================================================================================================
 
-7. According to economists, social activists wrongly portray corporations as institutions that are driven solely by the motive of profit/revenue maximization. They contend that the activists' argument that no corporation makes an investment from which it does not expect a return is not always true since there have been many examples of corporations that have started not-for-profit trusts that run schools and other institutions that contribute to social welfare. The economists' argument against the activists is not convincing because corporations advertize their welfare activities in order to generate goodwill that translates into increased revenues.
+BOLDFACE QUESTIONS
+ * Take the highlighted statement in relation to the paragraph not only the statement itself 
+7. According to economists, social activists wrongly portray corporations as institutions that are driven solely by the motive of profit/revenue maximization. They contend that the activists' argument that <b>no corporation makes an investment from which it does not expect a return</b> is not always true since there have been many examples of corporations that have started not-for-profit trusts that run schools and other institutions that contribute to social welfare. The economists' argument against the activists is not convincing because <b>corporations advertize their welfare activities in order to generate goodwill that translates into increased revenues</b>.
 The two boldfaced portions play which of the following roles in the economists' argument?
     A. The first supports the conclusion of the economists' argument; the second calls that into question.
     B. The first states the assertion that the economists' conclusion refutes; the second states the conclusion that refutes the economists' assertion.
@@ -75,7 +87,7 @@ The two boldfaced portions play which of the following roles in the economists' 
     E. The first supports the contention that the economists refute; the second states the conclusion against the economists'.
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-8. A large number of HBS students signed the "MBA Oath" at graduation in response to the dramatic business failures of the past year. The HBS student who organized the effort, and the HBS faculty members who inspired him, deserve great kudos for raising in a powerful, symbolic way critical issues for MBA students about building a foundation of integrity for business performance-student commitments that are echoed at other business schools and now resonate in major media take-outs. But oaths (and codes) are empty, even hypocritical rhetoric if they're not backed by anything else. In this period when trust in capitalism and business decision-making has been severely eroded, the question is whether the MBA oath will (along with many other developments) effect consequential change.
+8. A large number of HBS students signed the "MBA Oath" at graduation in response to the dramatic business failures of the past year. <b>The HBS student who organized the effort, and the HBS faculty members who inspired him, deserve great kudos</b> for raising in a powerful, symbolic way critical issues for MBA students about building a foundation of integrity for business performance-student commitments that are echoed at other business schools and now resonate in major media take-outs. But oaths (and codes) are empty, even hypocritical rhetoric if they're not backed by anything else. <b>In this period when trust in capitalism and business decision-making has been severely eroded</b>, the question is whether the MBA oath will (along with many other developments) effect consequential change.
 In the argument given, the two portions in boldface play which of the following roles?
     A. The first presents a particular course of action that the second refutes.
     B. The first lauds a particular course of action that the second refutes.
@@ -84,7 +96,7 @@ In the argument given, the two portions in boldface play which of the following 
     E. The first praises a particular course of action whose effectiveness is called into question by the second.
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-9. A recent study led by Janet Werker, a psychologist, suggests that children who learn two languages at once may have increased cognitive abilities such as enhanced visual and auditory sensitivity. The findings run counter to the theory that suggests bilingualism may actually lead to language confusion. Benjamin Lee Whorf, the American linguist, once said, "Language shapes the way we think, and determines what we think about." Whorf's linguistic studies led to the principles of the Whorf hypothesis of linguistic relativity - a belief that speakers of different languages learn, think, and act differently depending on the language they speak and write. From Whorf's findings, one may conclude that a child who engages in code-switching - the use of two or more languages in everyday interactions - will develop language confusion.
+9. A recent study led by Janet Werker, a psychologist, suggests that <b>children who learn two languages at once may have increased cognitive abilities such as enhanced visual and auditory sensitivity</b>. The findings run counter to the theory that suggests bilingualism may actually lead to language confusion. Benjamin Lee Whorf, the American linguist, once said, "Language shapes the way we think, and determines what we think about." Whorf's linguistic studies led to the principles of the Whorf hypothesis of linguistic relativity - a belief that speakers of different languages learn, think, and act differently depending on the language they speak and write. From Whorf's findings, one may conclude that <b>a child who engages in code-switching - the use of two or more languages in everyday interactions - will develop language confusion</b>.
 In the paragraph given above, the two portions in boldface play which of the following roles?
     A. The first is a claim made by an argument in support of bilingualism and the second
     presents the position in a modified form.
@@ -94,6 +106,7 @@ In the paragraph given above, the two portions in boldface play which of the fol
     E. The first supports a recommendation by citing relevant examples and the second suggests an alternate course of action.
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+STENGTHEN THE CONCLUSION
 10. Generations of European History students have been taught that a political assassination caused the First World War. Without some qualification, however, this teaching is bound to mislead since the war would not have happened without the treaties and alliances that were already in effect and the military force that was already amassed. These were the deeper causes of the war, whereas the assassination was a cause only in a trivial sense. It was like the individual spark that happens to ignite a conflagration that was, in the prevailing conditions, inevitable.
 Which one of the following most accurately restates the main point of the passage?
     A. The assassination did not cause the war since the assassination was only the last in a chain of events leading up to the war, each of which had equal claim to being called its "cause." 
@@ -106,3 +119,17 @@ Which one of the following most accurately restates the main point of the passag
 ===================================================================================================================================================
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 ===================================================================================================================================================
+
+[C]
+[E]
+[D]
+[A]
+-----------
+[D]
+[D]
+-----------
+[C]
+[E]
+[C]
+-----------
+[A]

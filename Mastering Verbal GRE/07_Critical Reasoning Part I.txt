@@ -2,6 +2,9 @@
 
 TIP: In Critical Reasoning each and every word matters.
 
+Types of Questions in RC - Factual as well as Inference based Questions
+But in CR there are only Inference Based Questions - How logically you can make your point? 
+
 Whenever you read sth, how do you make your inferences /assumptions about them? 
 Sentence 1: "Migraine more than any headache seems to run in families"
 Sentence 2: "The choreographer more than any participant, seems to be excited about the dance"
@@ -24,7 +27,7 @@ Which of the following conclusions is best supported by the information above?
     A. Since the President will have to go against public opinion, the new tax plan will be dropped.
     B. Implementation of the President's policies is more contingent on public approval than on Congressional approval.
     C. It is unlikely that the President will go ahead with the new tax plan, and it might be abandoned mid way.
-    D. For the tax plan to be impiemented successfully, public support will have to be unanimous.
+    D. For the tax plan to be implemented successfully, public support will have to be unanimous.
     E. The President will modify the tax plan in order to roduce the burden on the taxpayer.
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -76,10 +79,11 @@ The above argument depends logically upon which of the following assumptions?
 
 8. Since an elephant that has no tusks is worthless to poachers, the Wildlife Protection Committee plans to protect selected elephants from being killed by poachers by cutting off the elephants' tusks.
 The Wildlife Protection Committee's plan assumes that
-    A. poachers do not kill elephants that are worthless to them
-    B. tuskless elephants pose less of a threat to humans, including poachers, than do elephants that have tusks
-    C. elephants are the only animals poachers kill for their tusks 
-    D. tuskless elephants can successfully defend their young against non-human predators E. imposing more stringent penalties on poachers will not decrease the number of elephants killed by poachers
+    A. Poachers do not kill elephants that are worthless to them
+    B. Tuskless elephants pose less of a threat to humans, including poachers, than do elephants that have tusks
+    C. Elephants are the only animals poachers kill for their tusks 
+    D. Tuskless elephants can successfully defend their young against non-human predators 
+    E. Imposing more stringent penalties on poachers will not decrease the number of elephants killed by poachers
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 9. According to a survey, despite a dict dominated by cheese, alcohol, chocolate and meat, all of which are not healthy and are proven to lead to obesity and heart discase, only 10% of French adults are obese, while the obesity rate for British and American adults who also consume fats and alcohol is 22% and 35% respectively.
@@ -114,4 +118,13 @@ Which of the following, if true, best reconciles the seeming discrepancy describ
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 ===================================================================================================================================================
 [E]
-[]
+[C]
+[B]
+[A]
+[A]
+[C]
+[C]
+[A]
+[D]
+[B]
+[D]
