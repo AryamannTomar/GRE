@@ -42,7 +42,7 @@ Each of the following can be logically inferred from the anthropologist's statem
 
 4. Most land-dwelling vertebrates have rotating limbs terminating in digits, a characteristic useful for land movement. Biologists, who assume that this characteristic evolved only after animals abandoned aquatic environments, must consider the Acanthostega, a newly discovered ancestor of all land vertebrates. it possessed rotating limbs terminating in digits, but its skeleton was too feeble for land movement. It also breathed using only internal gills, indicating that it and its predecessors were exclusively aquatic.
 The statements above support which of the following conclusions?
-    A. The Acanthostega demonstrates that in the ealiest ancestors of land-dwelling vertebrates, anatomical characteristics suitable for surviving on land evolved prior to the abandonment of aquatic environments.
+    A. The Acanthostega demonstrates that in the earliest ancestors of land-dwelling vertebrates, anatomical characteristics suitable for surviving on land evolved prior to the abandonment of aquatic environments.
     B. None of the anatomical characteristics common to most aquatic animals represent an advantage for survival on land.
     C. Acanthostega originated as a land-dwelling species but evolved gills only after moving to an underwater environment.
     D. All anatomical characteristics not useful for land movement but common to most land animals represent an advantage for underwater survival.
