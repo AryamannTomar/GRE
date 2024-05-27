@@ -15,7 +15,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 1. Recently NGOs have become far more effective at persuading industrial corporations to change. For example, as a result of the efforts of animal groups, many biotechnology companies have reduced their use of laboratory animals, substituting in their place alternative methods of product testing.
 Which of the following, if true, casts the most serious doubt on the connection between pressure group activity and corporate change claimed above?
-    A. Many companies in the rescarch industry have increased their public relations spending in order to counter the activity of animal rights groups.
+    A. Many companies in the research industry have increased their public relations spending in order to counter the activity of animal rights groups.
     B. Before the new methods of testing products are used, they have to be calibrated by comparison tests involving experiments on laboratory animals.
     C. When companies stop using laboratory animals, they generally go to some expense to publicize this change of policy.
     D. The biotechnology companies who still use laboratory animals are mostly the smaller firms that have been less subject to pressure group activity.
